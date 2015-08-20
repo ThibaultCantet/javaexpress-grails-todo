@@ -1,0 +1,1 @@
+Kod źródłowy projektu ilustrujący artykuł o Grails z 5 numeru JavaExpress (http://javaexpress.pl).
